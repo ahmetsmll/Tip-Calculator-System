@@ -27,8 +27,9 @@ Its main purpose is to distribute tips fairly among employees based on their emp
 - User-friendly desktop interface built with Java Swing
 
 ---
-### Project Documentation
-[Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
+## Project Documentation
+[Tip Calculator System – Project Report (PDF)](Project Content.pdf)
+
 ---
 
 ## 🗄️ Database (MySQL)
