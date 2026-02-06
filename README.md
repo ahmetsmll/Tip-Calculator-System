@@ -3,6 +3,7 @@
 
 Project Info documentation     --->    [Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
 
+
 ##  Technologies Used
 
 - Java (Swing GUI)
@@ -26,12 +27,13 @@ Project Info documentation     --->    [Tip Calculator System – Project Report
 
 
 
-##  Database (MySQL)
+##  Database Codes (MySQL)
 
  !!! Note : Database files are not included in the repository.
- Codes:
  
-'''sql
+
+ 
+```sql
  
 CREATE DATABASE IF NOT EXISTS tip_calculator;
 USE tip_calculator;
