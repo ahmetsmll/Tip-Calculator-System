@@ -1,7 +1,7 @@
 # Tip Calculator System 
 
- ## Project Info Documentation
-[Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
+
+Project Info documentation     --->    [Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
 
 ##  Technologies Used
 
