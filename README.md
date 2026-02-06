@@ -28,7 +28,7 @@ Its main purpose is to distribute tips fairly among employees based on their emp
 
 ---
 Project Documentation
-[Tip Calculator System – Project Report (PDF)](docs/Tip-Calculator-System-Project-Report.pdf)
+[Tip Calculator System – Project Report (PDF)](docs/Project-Content.pdf)
 
 ## 🗄️ Database (MySQL)
 
