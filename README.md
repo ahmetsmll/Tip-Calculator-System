@@ -1,5 +1,7 @@
 # Tip Calculator System 
 
+ ## Project Info Documentation
+[Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
 
 ##  Technologies Used
 
@@ -22,17 +24,15 @@
 - Data is stored in a MySQL database
 - User-friendly desktop interface built with Java Swing
 
----
- Project Info Documentation
---> [Tip Calculator System – Project Report (PDF)](Project-Content.pdf)
 
----
 
 ##  Database (MySQL)
 
  !!! Note : Database files are not included in the repository.
  Codes:
- ---
+ 
+ ---sql
+ 
 CREATE DATABASE IF NOT EXISTS tip_calculator;
 USE tip_calculator;
 
