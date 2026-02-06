@@ -31,7 +31,7 @@ Project Info documentation     --->    [Tip Calculator System – Project Report
  !!! Note : Database files are not included in the repository.
  Codes:
  
- ---sql
+'''sql
  
 CREATE DATABASE IF NOT EXISTS tip_calculator;
 USE tip_calculator;
